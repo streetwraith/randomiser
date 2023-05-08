@@ -1,11 +1,19 @@
 Item     Replacement Source       Tier Token Ident Chance Comment
 
 leat03   leat04      maneir.cre   24   w01   v1    100
+rr#buc01 blank       ulgoth.sto   24   w02   r3    100    RR Fading Glory
+rr#hel04 blank       highhedg.sto 24   w03   r9    100    RR Fragment of Enlightenment
+rr#hel02 blank       stoblack.sto 24   w04   r12   100    RR Cowl of Acuity
+rr#bel01 blank       taerum.sto   24   w05   r1    100    RR Masterbelt
 
 blun07   blun06      drakar.cre   25   w01   v2    100
 slng02   blank       taerum.sto   25   w02   x     100
 staf02   blank       taerum.sto   25   w03   x     100
-rr#bel01 blank       taerum.sto   25   w04   r1    100    RR Masterbelt
+rr#bow03 blank       taerum.sto   25   w04   x     100    RR Composite Short Bow +1
+rr#buc03 blank       ulgoth.sto   25   w05   x     100    RR Buckler +2, Ulgoth's Beard
+rr#buc03 blank       stoblack.sto 25   w06   x     100    RR Buckler +2, Black Lily
+rr#shl01 blank       taerum.sto   25   w07   r4    100    RR The Stalwart Defender
+rr#wear  blank       taerum.sto   25   w08   r6    100    RR The Weary Cudgel
 
 chan05   blank       ar0161.are   26   w01   v3    100
 chan05   blank       ar0608.are   26   w02   x     100
@@ -13,6 +21,8 @@ clck01   blank       ar0813.are   26   w03   v4    100
 helm03   helm08      jardak.cre   26   w04   v5    100
 plat02   plat01      gentho.cre   26   w05   v6    100
 chan03   plat01      molkar.cre   26   w06   v7    100
+rr#hrp01 blank       ulgoth.sto   26   w08   r8    100    RR Harp of Descant
+rr#hel05 blank       highhedg.sto 26   w09   r10   100    RR Deep Red Ioun Stone
 
 sw1h03   blank       aldeth.dlg   27   w01   v8    100
 bow07    bow03       hakt.cre     27   w02   v9    100
@@ -21,8 +31,13 @@ boot04   blank       nimbul.cre   27   w04   vb    100
 shld07   blank       varci.dlg    27   w05   vc    100
 ax1h03   ax1h02      gretek.cre   27   w06   ve    100
 book03   blank       ar3601.are   27   w07   vf    100
+rr#bow04 blank       ulgoth.sto   27   w08   x     100    RR Composite Short Bow +2, Ulgoth's Beard
+rr#bow04 blank       stoblack.sto 27   w09   x     100    RR Composite Short Bow +2, Black Lily
+rr#shl02 blank       stoblack.sto 27   w10   r5    100    RR Safeguard
+rr#lyre  blank       stoblack.sto 27   w11   r11   100    RR Lyre of Progression
 
 helm04   blank       droth.cre    28   w01   vd    100
+rr#bow06 blank       stoblack.sto 28   w02   r2    100    RR Sparkburst
 
 chan07   blank       baresh2.cre  31   w01   b3e   100
 

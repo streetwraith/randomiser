@@ -63,6 +63,7 @@ blun35 5
 waflail 5
 wamace 2
 wastar 3
+rr#wear 1
 
 boot01 3
 boot02 1
@@ -92,6 +93,9 @@ bow22  4
 bow24  2
 bow25  2
 bow26  2
+rr#bow03 1
+rr#bow04 1
+rr#bow06 2
 
 brac01 1
 brac02 2
@@ -228,6 +232,9 @@ helm31 4
 helm33 0
 helm34 6
 wa2helm 1
+rr#hel04 0
+rr#hel05 1
+rr#hel02 2
 
 leat01 2
 leat02 3
@@ -303,7 +310,7 @@ shld04 2
 shld07 3
 shld17 1
 shld19 3
-shld20 1
+shld20 2
 shld21 4
 shld22 5
 shld23 7
@@ -317,6 +324,12 @@ shld30 3
 shld31 6
 shld32 7
 wa2shiel 4
+rr#buc01 1
+rr#buc02 1
+rr#buc03 2
+rr#shl01 1
+rr#shl02 3
+
 
 slng02 1
 slng03 3
