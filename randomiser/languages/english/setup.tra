@@ -29,6 +29,7 @@
 @101200="Mode 1: Randomise with in-game scripts. Some items are lost"
 @101300="Mode 2: Randomise with WeiDU. No items are lost"
 @101400="Mode 2: Randomise with WeiDU. Some items are lost"
+@101500="Mode 2: Randomise with WeiDU. Some items are lost (mage spell scrolls excluded)"
 
 @105000="Components for unequipping items from creature groups"
 @105001="This component is only available for Mode 2"

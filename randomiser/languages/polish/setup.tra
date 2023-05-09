@@ -29,6 +29,7 @@
 @101200=~Tryb 1: Rozmieszczaj losowo przy pomocy skryptow wykorzystywanych przez gre. Niektore przedmioty zostaja utracone~
 @101300=~Tryb 2: Rozmieszczaj losowo przy pomocy WeiDU. Brak utraty przedmiotow~
 @101400=~Tryb 2: Rozmieszczaj losowo przy pomocy WeiDU. Mode 2: Niektore przedmioty zostaja utracone~
+@101500=~Tryb 2: Rozmieszczaj losowo przy pomocy WeiDU. Mode 2: Niektore przedmioty zostaja utracone (z wyjatkiem zwojow z czarami maga)~
 
 @105000=~Komponenty zwiazane z brakiem przedmiotow przez poszczegolne grupy istot~
 @105001=~Komponent ten jest dostepny tylko dla Trybu 2~
