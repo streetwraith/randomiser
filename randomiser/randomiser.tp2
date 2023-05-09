@@ -198,6 +198,7 @@ BEGIN @101300 SUBCOMPONENT @101000 DESIGNATED 1300                              
 BEGIN @101400 SUBCOMPONENT @101000 DESIGNATED 1400                                                                     //WeiDU randomisation: some items are lost
                                                                                                                        //Marker file: flrandomiser2.mrk
   OUTER_SET lost = 1
+  OUTER_SET scrolls_lost = 0
   OUTER_SET weidu_action = 1
 
   INCLUDE "randomiser/lib/random_seed.tpa"
