@@ -199,6 +199,7 @@ BEGIN @101400 SUBCOMPONENT @101000 DESIGNATED 1400                              
                                                                                                                        //Marker file: flrandomiser2.mrk
   OUTER_SET lost = 1
   OUTER_SET scrolls_lost = 1
+  OUTER_SET tomes_lost = 1
   OUTER_SET weidu_action = 1
 
   INCLUDE "randomiser/lib/random_seed.tpa"
@@ -217,6 +218,7 @@ BEGIN @101500 SUBCOMPONENT @101000 DESIGNATED 1500                              
                                                                                                                        //Marker file: flrandomiser2.mrk
   OUTER_SET lost = 1
   OUTER_SET scrolls_lost = 0
+  OUTER_SET tomes_lost = 0
   OUTER_SET weidu_action = 1
 
   INCLUDE "randomiser/lib/random_seed.tpa"

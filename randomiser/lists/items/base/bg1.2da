@@ -34,7 +34,7 @@ hamm02   hamm01      raiken.cre   25   18    x     100
 staf02   staf01      silke.cre    25   19    ba    100
 
 amul14   blank       sto4906.sto  26   01    x     100
-book07   blank       ar5102.are   26   02    bc    100
+book07   blank       ar5102.are   26   02    g1    100
 brac07   blank       hairto.cre   26   03    bd    100
 brac08   blank       bassil.cre   26   04    be    100
 misc41   blank       ar5500.are   26   05    bf    100
@@ -55,9 +55,9 @@ brac03   blank       davaeo.cre   26   19    b18   100
 brac04   blank       zal.cre      26   20    b19   100
 
 amul01   blank       sto4906.sto  27   01    x     100
-book05   blank       ar0153.are   27   02    x     100
-book06   blank       ar0138.are   27   03    b1c   100
-book08   blank       ar2615.are   27   04    b1d   100
+book05   blank       ar0153.are   27   02    g2    100
+book06   blank       ar0138.are   27   03    g3    100
+book08   blank       ar2615.are   27   04    g4    100
 clck15   blank       highhedg.sto 27   05    x     100
 clck16   blank       highhedg.sto 27   06    x     100
 clck17   blank       davaeo.cre   27   07    b1e   100
@@ -75,7 +75,7 @@ dagg04   dagg01      krysti.cre   27   18    b26   100
 plat04   blank       taerum.sto   27   19    x     100
 ring02   blank       ar2615.are   27   20    b27   100
 
-book04   blank       ar2615.are   28   01    b28   100
+book04   blank       ar2615.are   28   01    g5    100
 clck02   blank       ar2615.are   28   02    b29   100
 leat08   blank       taerum.sto   28   03    x     100
 helm06   blank       blank        28   04    b42   100    Also remove from inn3351.sto, in case of BG1UB
@@ -89,7 +89,7 @@ wand10   blank       sto0703.sto  28   11    x     100
 xbow06   blank       taerum.sto   28   12    x     100
 ring07   ring06      ramazi.cre   28   13    x     100
 
-book08   blank       ar0504.are   29   01    b2c   100
+book08   blank       ar0504.are   29   01    g6    100
 brac11   blank       ar1502.are   29   02    b2d   100
 shld06   blank       ulgoth.sto   29   03    x     100    x5
 wand05   blank       erdane.sto   29   04    x     100
