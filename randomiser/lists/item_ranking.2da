@@ -26,6 +26,7 @@ ax1h14 4
 ax1h16 5
 ax1h17 3
 waaxe  3
+ax1h19 2
 
 belt02 2
 belt03 2
@@ -36,6 +37,8 @@ belt08 5
 belt10 6
 belt11 6
 rr#bel01 2
+belt16 1
+nebelt01 2
 
 blun03 1
 blun05 1
@@ -64,6 +67,11 @@ waflail 5
 wamace 2
 wastar 3
 rr#wear 1
+blun36 1
+blun38 1
+blun37 2
+blun39 2
+blun41 2
 
 boot01 3
 boot02 1
@@ -202,6 +210,7 @@ halb08 3
 halb10 4
 halb12 3
 wa2halb 3
+halb13 2
 
 hamm02 1
 hamm03 3
@@ -212,6 +221,7 @@ hamm07 3
 hamm08 2
 hamm10 4
 hamm12 3
+hamm13 2
 
 helm03 1
 helm04 6
@@ -256,6 +266,7 @@ leat18 7
 leat20 9
 leat23 10
 leat24 10
+leat25 5
 
 plat01 7
 plat02 8
@@ -277,6 +288,7 @@ plat21 14
 plat22 14
 plat23 11
 wa2plat 11
+plat24 9
 
 ring02 4
 ring03 0
@@ -329,7 +341,7 @@ rr#buc02 1
 rr#buc03 2
 rr#shl01 1
 rr#shl02 3
-
+shld33 2
 
 slng02 1
 slng03 3
@@ -340,6 +352,7 @@ slng07 3
 slng08 4
 slng10 3
 wasling 5
+slng11 1
 
 sper02 1
 sper05 2
@@ -430,6 +443,7 @@ wa2dak 3
 wa2s1h 3
 waninja 5
 wawak 4
+sw1h79 2
 
 sw2h02 1
 sw2h06 3

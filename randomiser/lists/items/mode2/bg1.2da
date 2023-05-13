@@ -5,6 +5,9 @@ rr#buc01 blank       ulgoth.sto   24   w02   r3    100    RR Fading Glory
 rr#hel04 blank       highhedg.sto 24   w03   r9    100    RR Fragment of Enlightenment
 rr#hel02 blank       stoblack.sto 24   w04   r12   100    RR Cowl of Acuity
 rr#bel01 blank       taerum.sto   24   w05   r1    100    RR Masterbelt
+blun36   blun01      krumm.cre    24   w06   x     100    EE Club +1
+chan12   chan01      siprst.cre   24   w07   e01   100    EE Elven Chain Mail
+belt16   blank       gorion.cre   24   w08   e02   100    EE Belt of Antipode
 
 blun07   blun06      drakar.cre   25   w01   v2    100
 slng02   blank       taerum.sto   25   w02   x     100
@@ -14,6 +17,15 @@ rr#buc03 blank       ulgoth.sto   25   w05   x     100    RR Buckler +2, Ulgoth'
 rr#buc03 blank       stoblack.sto 25   w06   x     100    RR Buckler +2, Black Lily
 rr#shl01 blank       taerum.sto   25   w07   r4    100    RR The Stalwart Defender
 rr#wear  blank       taerum.sto   25   w08   r6    100    RR The Weary Cudgel
+blun38   blun01      ar0100.are   25   w09   x     100    EE Night Club +1
+sw1h47   sw1h46      senjack.cre  25   w10   x     100    EE Wakizashi +1
+sw1h49   blank       ar0226.are   25   w11   x     100    EE Ninja-To +1
+slng11   blank       ar0104.are   25   w12   x     100    EE Sling of Unerring Accuracy
+shld33   blank       friend.sto   25   w13   e03   100    EE Buckley's Buckler (+1 CON)
+nebelt01 blank       neadoy.cre   25   w14   e04   100    EE Adoy's Belt
+ring47   blank       ar2100.are   25   w15   x     100    EE The Iron Thorn
+belt02   blank       simmeon.cre  25   w16   x     100    EE Golden Girdle
+belt03   blank       sto1117.sto  25   w17   x     100    EE Destroyer of the Hills
 
 chan05   blank       ar0161.are   26   w01   v3    100
 chan05   blank       ar0608.are   26   w02   x     100
@@ -23,6 +35,15 @@ plat02   plat01      gentho.cre   26   w05   v6    100
 chan03   plat01      molkar.cre   26   w06   v7    100
 rr#hrp01 blank       ulgoth.sto   26   w08   r8    100    RR Harp of Descant
 rr#hel05 blank       highhedg.sto 26   w09   r10   100    RR Deep Red Ioun Stone
+ax1h19	 ax1h01      fenten.cre   26   w10   e05   100    EE Golden Axe +1   
+halb13   halb01      ingot.cre    26   w11   e06   100    EE The Chesley Crusher +2
+sw1h79   sw1h04      zeela.cre    26   w13   e07   100    EE Harrower +1
+slng11   blank       stoblack.sto 26   w14   e08   100    EE Sling of Unerring Accuracy
+sper05   sper01      jacil.cre    26   w15   e09   100    EE Spear +2
+hamm13   hamm01      brathl.cre   26   w16   e10   100    EE Hammer of Dawn +1
+amul25   blank       kryll.cre    26   w17   e11   100    EE Amulet of Spell Warding
+ring47   blank       ar1906.are   26   w18   x     100    EE The Iron Thorn
+boot04   blank       nemeklin.cre 26   w19   e12   100    EE Boots of Avoidance
 
 sw1h03   blank       aldeth.dlg   27   w01   v8    100
 bow07    bow03       hakt.cre     27   w02   v9    100
@@ -35,11 +56,28 @@ rr#bow04 blank       ulgoth.sto   27   w08   x     100    RR Composite Short Bow
 rr#bow04 blank       stoblack.sto 27   w09   x     100    RR Composite Short Bow +2, Black Lily
 rr#shl02 blank       stoblack.sto 27   w10   r5    100    RR Safeguard
 rr#lyre  blank       stoblack.sto 27   w11   r11   100    RR Lyre of Progression
+blun37   blun01      amaran.cre   27   w12   e13   100    EE Mighty Oak +2
+sw1h79   sw1h04      elkart.cre   27   w13   e14   100    EE Harrower +1
+staf18   staff01     laskal.cre   27   w14   x     100    EE Quarterstaff +2
+plat24   blank       ar0123.are   27   w15   e15   100    EE The Magma Bulwark +2
+brac10   blank       ar1901.are   27   w16   e16   100    EE Gauntlets of Weapon Expertise
+plat02   plat01      simmeon.cre  27   w17   e17   100    EE Fallorain's Plate
+clck17   blank       baeloth.cre  27   w18   e18   100    EE Baeloth's Robe of the Evil Archmagi
+boot01   blank       lothan.cre   27   w19   e19   100    EE Boots of Speed
 
 helm04   blank       droth.cre    28   w01   vd    100
 rr#bow06 blank       stoblack.sto 28   w02   r2    100    RR Sparkburst
+sw1h34   sw1h01      simmeon.cre  28   w03   e20   100    EE Albruin +1
+leat25   blank       oh2010.are   28   w04   e21   100    EE Rugged Leathers +2
+leat09   blank       ar0514.are   28   w05   e22   100    EE Karajah's Life and Death +3
+
+blun41   blank       ar3308.are   29   w01   e23   100    EE The Stupefier +1
+sw1h23   blank       ar2100.are   29   w02   e24   100    EE Rashad's Talon
+
+blun39   blank       sto0703.sto  30   w01   e25   100    EE The Thresher (Flail +2)
 
 chan07   blank       baresh2.cre  31   w01   b3e   100
+belt15   blank       oh3010.are   31   w06   e26   100    EE Big-Fisted Belt
 
 v10
 
