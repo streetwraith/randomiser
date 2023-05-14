@@ -178,7 +178,6 @@ ACTION_PHP_EACH tier_array AS tier => blank BEGIN
   ACTION_PHP_EACH randomisation AS entry => blank BEGIN
     ACTION_IF "%entry_0%" STRING_EQUAL_CASE "%tier%" BEGIN
       ACTION_IF lost = 1 AND "%entry_0%" STRING_COMPARE_CASE fa AND "%entry_0%" STRING_COMPARE_CASE ka BEGIN
-        ACTION_IF "%entry_0%" STRING_MATCHES_REGEXP "^s.+" OR scrolls_lost = 1 BEGIN
         ACTION_IF ("%entry_0%" STRING_MATCHES_REGEXP "^s.+" OR scrolls_lost = 1) AND ("%entry_2%" STRING_MATCHES_REGEXP "^g[0-9]+" OR tomes_lost = 1) BEGIN
           ACTION_IF RANDOM(1 100) < LostChance AND $TokenAssigned("%entry_1%") = 0 BEGIN
             LOG "Item lost: tier %entry_0%, token %entry_1%"
