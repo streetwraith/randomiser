@@ -78,6 +78,7 @@ blun39   blank       sto0703.sto  30   w01   e25   100    EE The Thresher (Flail
 
 chan07   blank       baresh2.cre  31   w01   b3e   100
 belt15   blank       oh3010.are   31   w06   e26   100    EE Big-Fisted Belt
+misc72   blank       highhedg.sto 31   w07   e27   100    Claw of Kazgaroth
 
 v10
 
@@ -119,10 +120,9 @@ scrl67   blank       rsdead03.cre sa   w35   x     100    Armor
 scrl68   blank       gazib.cre    sa   w36   x     100    Burning Hands
 scrl68   blank       rsdapp03.cre sa   w37   x     100    Burning Hands
 scrl68   blank       rsdead03.cre sa   w38   x     100    Burning Hands
-scrl69   blank       joia.cre     sa   w39   x     100    Charm Person
 scrl69   blank       kirian.cre   sa   w40   x     100    Charm Person
 scrl69   blank       tamah.cre    sa   w41   x     100    Charm Person
-scrl69   blank       ar5404.are   sa   w42   x     100    Charm Person
+scrl69   blank       ar5405.are   sa   w42   x     100    Charm Person
 scrl69   blank       highhedg.sto sa   w43   x     100    Charm Person
 scrl69   blank       sto0703.sto  sa   w44   x     100    Charm Person
 scrl6d   blank       nimbul.cre   sa   w45   x     100    Find Familiar
@@ -161,7 +161,6 @@ scrl75   blank       ar1101.are   sa   w77   x     100    Identification
 scrl75   blank       ar2610.are   sa   w78   x     100    Identification
 scrl75   blank       ar2613.are   sa   w79   x     100    Identification
 scrl75   blank       ar5405.are   sa   w80   x     100    Identification
-scrl76   blank       joia.cre     sa   w81   x     100    Infravision
 scrl76   blank       kirian.cre   sa   w82   x     100    Infravision
 scrl76   blank       tamah.cre    sa   w83   x     100    Infravision
 scrl76   blank       highhedg.sto sa   w84   x     100    Infravision
@@ -169,7 +168,7 @@ scrl76   blank       sto0703.sto  sa   w85   x     100    Infravision
 scrl76   blank       ar1803.are   sa   w86   x     100    Infravision
 scrl76   blank       ar2616.are   sa   w87   x     100    Infravision
 scrl76   blank       ar2629.are   sa   w88   x     100    Infravision
-scrl76   blank       ar5404.are   sa   w89   x     100    Infravision
+scrl76   blank       ar5405.are   sa   w89   x     100    Infravision
 scrl77   blank       gorion.cre   sa   w90   x     100    Magic Missile
 scrl77   blank       simage1.cre  sa   w91   x     100    Magic Missile
 scrl77   blank       tarnes.cre   sa   w92   x     100    Magic Missile
@@ -179,9 +178,7 @@ scrl77   blank       ar4804.are   sa   w95   x     100    Magic Missile
 scrl77   blank       ar5102.are   sa   w96   x     100    Magic Missile
 scrl78   blank       andris.cre   sa   w97   x     100    Protection from Evil
 scrl78   blank       davaeo.cre   sa   w98   x     100    Protection from Evil
-scrl78   blank       joia.cre     sa   w99   x     100    Protection from Evil
 scrl78   blank       kirian.cre   sa   w0a   x     100    Protection from Evil
-scrl78   blank       laerta.cre   sa   w0b   x     100    Protection from Evil
 scrl78   blank       tamah.cre    sa   w0c   x     100    Protection from Evil
 scrl78   blank       highhedg.sto sa   w0d   x     100    Protection from Evil
 scrl78   blank       sto0703.sto  sa   w0e   x     100    Protection from Evil
@@ -349,16 +346,12 @@ scrl1t   blank       sakul.cre    sc   w54   x     100    Ghost Armor
 scrl1t   blank       sto0703.sto  sc   w55   x     100    Ghost Armor x2
 scrl1t   blank       wiven.cre    sc   w56   vs3a  100    Ghost Armor
 scrl1d   blank       ar0110.are   sc   w57   x     100    Clairvoyance
-scrl1f   blank       cordyr.cre   sc   w58   x     100    Flame Arrow
 scrl1f   blank       simage1.cre  sc   w59   x     100    Flame Arrow
 scrl1g   blank       ar0110.are   sc   w60   x     100    Fireball
-scrl1g   blank       cowled.cre   sc   w61   x     100    Fireball
 scrl1g   blank       semaj.cre    sc   w62   x     100    Fireball
-scrl1h   blank       cordyr.cre   sc   w63   x     100    Haste
 scrl1h   blank       ar0110.are   sc   w64   x     100    Haste
 scrl1i   blank       sakul.cre    sc   w65   x     100    Hold Person
 scrl1n   blank       ar0110.are   sc   w66   x     100    Protection from Normal Missiles
-scrl1q   blank       cowled.cre   sc   w67   x     100    Vampiric Touch
 scrl1q   blank       semaj.cre    sc   w68   x     100    Vampiric Touch
 scrl1q   blank       simage1.cre  sc   w69   x     100    Vampiric Touch
 scrl1r   blank       sakul.cre    sc   w70   x     100    Wraithform
